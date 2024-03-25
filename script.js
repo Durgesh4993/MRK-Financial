@@ -7,6 +7,7 @@ function sendMoney(){
     if (enterAmount > enterSAmount) {
        alert("Insufficient Balance.")
     }
+
         
  else {
        var findUserBankAccount = enterName + "BankBalance";
